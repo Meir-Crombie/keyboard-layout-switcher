@@ -24,7 +24,7 @@ Press **Ctrl + Alt** to instantly fix your text based on keyboard mapping, not t
 | Typed (wrong layout) | After pressing Ctrl + Alt |  
 |----------------------|---------------------------|  
 | `tvki` (English layout) | `אהלן` |  
-| `שדגש` (Hebrew layout) | `applo` |  
+| `שפפךם` (Hebrew layout) | `applo` |  
 
 ## Installation Guide
 
